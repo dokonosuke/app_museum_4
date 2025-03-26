@@ -1,7 +1,12 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: ../../../layouts/AppLayout.astro
 title:  'Enlighten'
+image:
+    url: "/src/pages/apps/enlighten/Enlighten_icon_framed.png"
+    alt: "the framed icon of this app"
 ---
+
+[Download Now](https://apps.apple.com/app/enlighten-light-something/id6743611567?)
 
 Use your smartphone as a light.
 

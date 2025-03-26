@@ -1,7 +1,12 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: ../../../layouts/AppLayout.astro
 title:  'MenuMaker'
+image:
+    url: "/src/pages/apps/menumaker/MenuMaker_icon_framed.png"
+    alt: "the framed icon of this app"
 ---
+
+[Download Now](https://apps.apple.com/app/menumaker-simple-design/id6670743591?)
 
 Create your own menu like fancy restaurants' one.
 

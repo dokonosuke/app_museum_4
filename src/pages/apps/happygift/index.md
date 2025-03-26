@@ -1,7 +1,12 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: ../../../layouts/AppLayout.astro
 title:  'HappyGift'
+image:
+    url: "/src/pages/apps/happygift/HappyGift_icon_framed.png"
+    alt: "the framed icon of this app"
 ---
+
+[Download Now](https://apps.apple.com/app/happygift-express-gratitude/id6736349278?)
 
 Express your gratitude to people around you in a cool way.
 

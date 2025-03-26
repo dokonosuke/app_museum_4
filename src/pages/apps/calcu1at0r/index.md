@@ -1,7 +1,12 @@
 ---
-layout: ../../../layouts/Layout.astro
+layout: ../../../layouts/AppLayout.astro
 title:  'Calcu1at0r'
+image:
+    url: "/src/pages/apps/calcu1at0r/Calcu1at0r_icon_framed.png"
+    alt: "the framed icon of this app"
 ---
+
+[Download Now](https://apps.apple.com/app/calcu1at0r-binary-calculator/id6627339042?)
 
 This app is calculator for people in the binary world.
 
