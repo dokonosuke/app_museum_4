@@ -35,7 +35,7 @@ a:hover {
 /* ナビゲーションのスタイル */
 
 .hamburger {
-    padding-right: 20px;
+    padding: 20px;
     cursor: pointer;
 }
   
@@ -63,7 +63,7 @@ a:hover {
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: bold;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .nav-links a:hover,
