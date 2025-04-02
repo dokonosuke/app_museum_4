@@ -1,10 +1,9 @@
 ---
-layout: ../../../layouts/AppLayout.astro
+layout: ../../../layouts/BaseLayout.astro
 title:  'MenuMaker'
-image:
-    url: "/src/pages/apps/menumaker/MenuMaker_icon_framed.png"
-    alt: "the framed icon of this app"
 ---
+
+![the framed icon of this app](MenuMaker_icon_framed.png)
 
 [Download Now](https://apps.apple.com/app/menumaker-simple-design/id6670743591?)
 

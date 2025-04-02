@@ -1,10 +1,9 @@
 ---
-layout: ../../../layouts/AppLayout.astro
+layout: ../../../layouts/BaseLayout.astro
 title:  'HappyGift'
-image:
-    url: "/src/pages/apps/happygift/HappyGift_icon_framed.png"
-    alt: "the framed icon of this app"
 ---
+
+![the framed icon of this app](HappyGift_icon_framed.png)
 
 [Download Now](https://apps.apple.com/app/happygift-express-gratitude/id6736349278?)
 
