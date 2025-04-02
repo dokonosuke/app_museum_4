@@ -2,7 +2,7 @@
 layout: ../../../layouts/AppLayout.astro
 title:  'Calcu1at0r'
 image:
-    url: "/src/pages/apps/calcu1at0r/Calcu1at0r_icon_framed.png"
+    url: "Calcu1at0r_icon_framed.png"
     alt: "the framed icon of this app"
 ---
 
