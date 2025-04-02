@@ -1,10 +1,9 @@
 ---
-layout: ../../../layouts/AppLayout.astro
+layout: ../../../layouts/BaseLayout.astro
 title:  'Calcu1at0r'
-image:
-    url: "Calcu1at0r_icon_framed.png"
-    alt: "the framed icon of this app"
 ---
+
+![the framed icon of this app](Calcu1at0r_icon_framed.png)
 
 [Download Now](https://apps.apple.com/app/calcu1at0r-binary-calculator/id6627339042?)
 

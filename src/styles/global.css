@@ -32,6 +32,32 @@ a:hover {
     display: flex;
 }
 
+img {
+    display: block;
+    max-height: 40rem;
+    max-width: min(100%, 30rem); /*一時的な措置で、本当は100%*/
+  
+    height: auto;
+    width: auto;
+    object-fit: contain;
+    object-position: left top;
+}
+  
+img.large {
+    width: 100%;
+}
+  
+img.medium {
+    max-width: 40rem; /* for IE11 */
+    max-width: min(100%, 40rem);
+}
+  
+img.small {
+    max-width: 30rem; /* for IE11 */
+    max-width: min(100%, 30rem);
+    max-height: 30rem;
+}
+
 /* ナビゲーションのスタイル */
 
 .hamburger {
