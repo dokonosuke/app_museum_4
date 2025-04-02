@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/BaseLayout.astro
+layout: ../../../layouts/Layout.astro
 title:  'Calcu1at0r'
 ---
 
