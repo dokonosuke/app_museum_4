@@ -1,6 +1,6 @@
 html {
-    /* background-color: #f1f5f9; */
-    font-family: sans-serif;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
 }
   
 body {
@@ -30,6 +30,16 @@ a:hover {
 
 .test-header {
     display: flex;
+}
+
+hr {
+    position: absolute;
+    left: 0;
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
 img {
@@ -88,7 +98,7 @@ img.small {
     padding: 10px 0;
     text-decoration: none;
     font-size: 1.2rem;
-    font-weight: bold;
+    /* font-weight: bold; */
     /* text-transform: uppercase; */
 }
 
