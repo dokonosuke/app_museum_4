@@ -5,11 +5,14 @@ import Social from './Social.astro';
     footer {
       display: flex;
       gap: 1rem;
-      margin-top: 2rem;
-      padding-top: 2rem;
+      margin: 1rem;
+      padding: 1rem;
     }
 </style>
 
 <footer>
-    <Social platform="github" username="dokonosuke" />
+  <ul>
+      <li><img src="/public/assets/images/github-mark.svg" alt="github logo" /><a href="https://github.com/dokonosuke">dokonosuke</a></li>
+      <li>✉️<a href="mailto:azra.oconnell@gmail.com">azra.oconnell@gmail.com</a></li>
+  </ul>
 </footer>
