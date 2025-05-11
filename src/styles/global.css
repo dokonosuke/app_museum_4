@@ -60,6 +60,22 @@ footer img {
     height: 1.3rem;
 }
 
+/*アプリ一覧のスタイル*/
+.app-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.app-list ul li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+    padding: 0.5rem;
+    width: 100%;
+}
+
 /* 画像のスタイル */
 
 img {
