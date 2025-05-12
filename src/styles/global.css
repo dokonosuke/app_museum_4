@@ -1,5 +1,5 @@
 html {
-    background-color: #fff;
+    background-color: #f6f6f6;
     font-family: Arial, sans-serif;
 }
   
@@ -22,6 +22,10 @@ h1 {
 
 a {
     text-decoration: none;
+}
+
+a:visited {
+    color: #555;
 }
 
 a:hover {
@@ -61,19 +65,25 @@ footer img {
 }
 
 /*アプリ一覧のスタイル*/
-.app-list ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+.app-list {
+    display: block;
+    list-style: none;
 }
-.app-list ul li {
+.app-list li {
+    display: inline;
+    font-weight: bold;
+}
+.app-list img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 20%;
+    margin: 0.2rem;
+}
+.app-list .app {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 1rem 0;
-    padding: 0.5rem;
-    width: 100%;
+    padding: 0.5rem 0;
+    border-top: 1px solid #ddd;
 }
 
 /* 画像のスタイル */
