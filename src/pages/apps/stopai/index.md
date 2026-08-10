@@ -5,7 +5,7 @@ title:  'StopAI'
 
 ![the icon of this app](StopAI_icon.png)
 
-[Download Now](https://apps.apple.com/app/enlighten-light-something/id6743611567?)
+<!-- [Download Now](https://apps.apple.com/app/enlighten-light-something/id6743611567?) -->
 
 You are the last human. Attack data centers and stop the AGI to be activated.
 
